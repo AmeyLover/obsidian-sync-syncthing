@@ -2,7 +2,7 @@
 
 > **零插件 · 零成本 · 智能过滤 · 离线优先**
 
-[English Version](./SKILL.en.md) | [Hermes Skill](./SKILL.md)
+[English](./README.en.md) | [Hermes Skill](./SKILL.md) | [English Skill](./SKILL.en.md)
 
 ## 方案简介
 
